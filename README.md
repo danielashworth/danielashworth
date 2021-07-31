@@ -1,3 +1,3 @@
 - 👋 Hi, I’m [Daniel Ashworth](https://www.linkedin.com/in/danieljashworth/)
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning about domain driven design and other service architecture patterns 
+- 🌱 I’m currently learning about [domain driven design](https://www.amazon.co.uk/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=asc_df_0321125215/?tag=googshopuk-21&linkCode=df0&hvadid=310831942794&hvpos=&hvnetw=g&hvrand=14151703547468132492&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9044967&hvtargid=pla-449269547899&psc=1&th=1&psc=1) and other service architecture patterns 
